@@ -1,0 +1,6 @@
+@LVTech_GeoLocationApi_HostAddress = http://localhost:5208
+
+GET {{LVTech_GeoLocationApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
